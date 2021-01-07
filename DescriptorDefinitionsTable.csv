@@ -1,0 +1,22 @@
+Descriptor,Description
+nFG12HeteroRing,"Number of >12-membered fused rings containing heteroatoms (N, O, P, S, or halogens)"
+SpMin7_Bhp,Smallest absolute eigenvalue of Burden modified matrix - n 7 / weighted by relative polarizabilities
+JGI6,Mean topological charge index of order 6
+VE1_Dzp,Coefficient sum of the last eigenvector from Barysz matrix / weighted by polarizabilities
+VR2_Dzp,Normalized Randic-like eigenvector-based index from Barysz matrix / weighted by polarizabilities
+TDB4i,3D topological distance based autocorrelation - lag 4 / weighted by first ionization potential
+GATS1s,Geary autocorrelation - lag 1 / weighted by I-state
+nF7Ring,Number of 7-membered fused rings
+LOBMIN,The L/B ratio for the rotation that results in the minimum area
+GATS7s,Geary autocorrelation - lag 7 / weighted by I-state
+PetitjeanNumber,Petitjean number
+ATSC8c,Centered Broto-Moreau autocorrelation - lag 8 / weighted by charges
+minHsOH,Minimum atom-type H E-State: -OH
+GATS8s,Geary autocorrelation - lag 8 / weighted by I-state
+minaaO,Minimum atom-type E-State: :O:
+ATSC7e,Centered Broto-Moreau autocorrelation - lag 7 / weighted by charges
+RDF100s,Radial distribution function - 100 / weighted by relative I-state
+SssCH2,Sum of atom-type E-State: -CH2-
+HLgap,homo-lumo gap
+ZMIC4,Z-modified information content index (neighborhood symmetry of 4-order)
+AATSC6c,Average centered Broto-Moreau autocorrelation - lag 6 / weighted by charges
